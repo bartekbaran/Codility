@@ -1,6 +1,6 @@
 ## Lesson 2 - Arrays
 1. [CyclicRotation](https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation/) - 100%
-2. [OddOccurencesInArray](https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/) - not yet
+2. [OddOccurencesInArray](https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/) - 100%
 
 ## Lesson 3 - Time complexity
 1. [FrogJmp](https://app.codility.com/programmers/lessons/3-time_complexity/frog_jmp/) - not yet
