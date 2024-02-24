@@ -44,7 +44,7 @@
 1. [CountFactors](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/count_factors/) - not yet
 2. [MinPerimeterRectangle](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/min_perimeter_rectangle/) - not yet
 3. [Flags](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/flags/) - 80% - performance issue. Solution to be changed as it's very ugly lol
-4. [Peaks](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/peaks/0 - not yet
+4. [Peaks](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/peaks/) - not yet
 
 ## Lesson 11 - Sieve of Eratosthenes
 1. [CountNonDivisible](https://app.codility.com/programmers/lessons/11-sieve_of_eratosthenes/count_non_divisible/) - 66% - performance issue + hard timeouts. Time complexity to be fixed as of now it's O(N**2)
@@ -69,8 +69,8 @@
 4. [MinAbsSumOfTwo](https://app.codility.com/programmers/lessons/15-caterpillar_method/min_abs_sum_of_two/) - not yet
 
 ## Lesson 16 - Greedy algorithms
-1. [MaxNonoverlappingSegments]() - not yet
-2. [TieRopes]() - not yet
+1. [MaxNonoverlappingSegments](https://app.codility.com/programmers/lessons/16-greedy_algorithms/max_nonoverlapping_segments/) - not yet
+2. [TieRopes](https://app.codility.com/programmers/lessons/16-greedy_algorithms/tie_ropes/) - not yet
 
 ## Lesson 17 - Dynamic programming
 1. [NumberSolitaire](https://app.codility.com/programmers/lessons/17-dynamic_programming/number_solitaire/) - not yet
