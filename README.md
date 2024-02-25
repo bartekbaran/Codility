@@ -9,7 +9,7 @@
 
 ## Lesson 4 - Counting elements
 1. [FrogRiverOne](https://app.codility.com/programmers/lessons/4-counting_elements/frog_river_one/) - 100%
-2. [PermCheck](https://app.codility.com/programmers/lessons/4-counting_elements/perm_check/) - 75% - invalid because of the antiSum tests. Solution in general to be changed.
+2. [PermCheck](https://app.codility.com/programmers/lessons/4-counting_elements/perm_check/) - 100%
 3. [MaxCounters](https://app.codility.com/programmers/lessons/4-counting_elements/max_counters/) - not yet
 4. [MissingInteger](https://app.codility.com/programmers/lessons/4-counting_elements/missing_integer/) - 100%
 
