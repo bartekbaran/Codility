@@ -4,7 +4,7 @@
 
 ## Lesson 3 - Time complexity
 1. [FrogJmp](https://app.codility.com/programmers/lessons/3-time_complexity/frog_jmp/) - 100%
-2. [PermMissingElem](https://app.codility.com/programmers/lessons/3-time_complexity/perm_missing_elem/) - not yet
+2. [PermMissingElem](https://app.codility.com/programmers/lessons/3-time_complexity/perm_missing_elem/) - 100%
 3. [TapeEquilibrium](https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/) - not yet
 
 ## Lesson 4 - Counting elements
