@@ -26,7 +26,7 @@
 4. [NumberOfDiscIntersections](https://app.codility.com/programmers/lessons/6-sorting/number_of_disc_intersections/) - not yet
 
 ## Lesson 7 - Stacks and Queues
-1. [Brackets](https://app.codility.com/programmers/lessons/7-stacks_and_queues/brackets/) - not yet
+1. [Brackets](https://app.codility.com/programmers/lessons/7-stacks_and_queues/brackets/) - 100%
 2. [Fish](https://app.codility.com/programmers/lessons/7-stacks_and_queues/fish/) - not yet
 3. [Nesting](https://app.codility.com/programmers/lessons/7-stacks_and_queues/nesting/) - not yet
 4. [StoneWall](https://app.codility.com/programmers/lessons/7-stacks_and_queues/stone_wall/) - not yet
