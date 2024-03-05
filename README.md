@@ -48,7 +48,7 @@
 
 ## Lesson 11 - Sieve of Eratosthenes
 1. [CountNonDivisible](https://app.codility.com/programmers/lessons/11-sieve_of_eratosthenes/count_non_divisible/) - 66% - performance issue + hard timeouts. Time complexity to be fixed as of now it's O(N**2)
-2. [CountSemiprimes](https://app.codility.com/programmers/lessons/11-sieve_of_eratosthenes/count_semiprimes/) - not yet
+2. [CountSemiprimes](https://app.codility.com/programmers/lessons/11-sieve_of_eratosthenes/count_semiprimes/) - 55% - performance issue
 
 ## Lesson 12 - Euclidean algorithm
 1. [ChocolatesByNumbers](https://app.codility.com/programmers/lessons/12-euclidean_algorithm/chocolates_by_numbers/) - not yet
