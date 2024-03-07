@@ -33,7 +33,7 @@
 
 ## Lesson 8 - Leader
 1. [Dominator](https://app.codility.com/programmers/lessons/8-leader/dominator/) - 100%
-2. [EquiLeader](https://app.codility.com/programmers/lessons/8-leader/equi_leader/) - not yet
+2. [EquiLeader](https://app.codility.com/programmers/lessons/8-leader/equi_leader/) - 100%
 
 ## Lesson 9 - Maximum slice problem
 1. [MaxProfit](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_profit/) - not yet
