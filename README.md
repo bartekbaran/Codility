@@ -21,7 +21,7 @@
 
 ## Lesson 6 - Sorting
 1. [Distinct](https://app.codility.com/programmers/lessons/6-sorting/distinct/) - 100%
-2. [MaxProductOfThree](https://app.codility.com/programmers/lessons/6-sorting/max_product_of_three/) - 66% - performance issue
+2. [MaxProductOfThree](https://app.codility.com/programmers/lessons/6-sorting/max_product_of_three/) - 100%
 3. [Triangle](https://app.codility.com/programmers/lessons/6-sorting/triangle/) - 100%
 4. [NumberOfDiscIntersections](https://app.codility.com/programmers/lessons/6-sorting/number_of_disc_intersections/) - not yet
 
