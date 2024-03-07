@@ -32,7 +32,7 @@
 4. [StoneWall](https://app.codility.com/programmers/lessons/7-stacks_and_queues/stone_wall/) - not yet
 
 ## Lesson 8 - Leader
-1. [Dominator](https://app.codility.com/programmers/lessons/8-leader/dominator/) - not yet
+1. [Dominator](https://app.codility.com/programmers/lessons/8-leader/dominator/) - 100%
 2. [EquiLeader](https://app.codility.com/programmers/lessons/8-leader/equi_leader/) - not yet
 
 ## Lesson 9 - Maximum slice problem
