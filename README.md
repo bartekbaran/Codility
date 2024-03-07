@@ -17,7 +17,7 @@
 1. [PassingCars](https://app.codility.com/programmers/lessons/5-prefix_sums/passing_cars/) - 100%
 2. [CountDiv](https://app.codility.com/programmers/lessons/5-prefix_sums/count_div/) - 100%
 3. [GenomicRangeQuery](https://app.codility.com/programmers/lessons/5-prefix_sums/genomic_range_query/) - not yet
-4. [MinAvgTwoSlice](https://app.codility.com/programmers/lessons/5-prefix_sums/min_avg_two_slice/) - 60% - hard timeouts
+4. [MinAvgTwoSlice](https://app.codility.com/programmers/lessons/5-prefix_sums/min_avg_two_slice/) - 100%
 
 ## Lesson 6 - Sorting
 1. [Distinct](https://app.codility.com/programmers/lessons/6-sorting/distinct/) - 100%

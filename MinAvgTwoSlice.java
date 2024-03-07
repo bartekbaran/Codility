@@ -1,22 +1,26 @@
-import java.util.*;
+import java.lang.Math;
 
 class Solution {
     public int solution(int[] A) {
 
-        double min = Double.MAX_VALUE;
+        float min = Float.MAX_VALUE;
         int correctIndex = 0;
-        double currentValue = 0;
 
-        for (int i = 0; i < A.length - 1; i++) {
-            currentValue = A[i];
-            for (int j = i + 1; j < A.length; j++) {
-                currentValue += A[j];
-                if (currentValue / (j - i + 1) < min) {
-                    min = currentValue / (j - i + 1);
-                    correctIndex = i;
-                }
+        for (int i = 0; i < A.length - 2; i++) {
+            float lowerAvg = Math.min((float) (A[i] + A[i + 1]) / 2,
+                                      (float) (A[i] + A[i + 1] + A[i + 2]) / 3);
+
+            if (lowerAvg < min) {
+                min = lowerAvg;
+                correctIndex = i;
             }
         }
+
+        float minOfLastTwo = (float) (A[A.length - 1] + A[A.length - 2]) / 2;
+        if (minOfLastTwo < min) {
+            return A.length - 2;
+        }
+
         return correctIndex;
     }
 }
